@@ -6,5 +6,4 @@
       "lib": ["ESNext", "dom"],
       "types": ["cypress", "node"]
     }
-  }
-  
+}
